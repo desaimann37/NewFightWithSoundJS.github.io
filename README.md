@@ -5,7 +5,7 @@ Hi Guys!! "The Deployed Game is in Developing Phase So Here Are Some Basic Contr
 1)  For Player( On Left Side) , 
         left Move: 'A'
         right move : 'D'
-        Player Attack : 'S'
+        Player Attack : 'Space Key'
         Fly(Up) move : 'W'
         
 2)  For Enemy ( On Right Side) , 
